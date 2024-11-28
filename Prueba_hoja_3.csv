@@ -1,0 +1,57 @@
+questionnaireQuestionId;questionnaireId;ordinal;title;content;requiredAnswerType;string_minLength;string_maxLength;number_minValue;number_maxValue;isNotApplicable
+29;7;1;Food Quality;How would you rate the quality and taste of your meal?\n1-3: poor/fair\n4-7: fair/good\n8-10: good/excellent;number;;;1;10;
+30;7;2;Server Experience;How would you rate the overall experience with your server?\n1-3: poor/fair\n4-7: fair/good\n8-10: good/excellent;number;;;1;10;
+31;7;3;Greetings Experience;How would you rate the overall experience with your host/hostess?\n1-3: poor/fair\n4-7: fair/good\n8-10: good/excellent;number;;;1;10;
+32;7;4;Cleanliness;How would you rate the overall cleanliness of this location?\n1-3: poor/fair\n4-7: fair/good\n8-10: good/excellent;number;;;1;10;
+87;24;1;Donation Cleanliness;How would you rate the cleanliness of the donation drive-thru area during your visit?\n1-3: poor/fair\n4-7: fair/good\n8-10: good/excellent;number;;;1;10;
+89;24;3;Mission Explanation;How would you rate the attendant's explanation of how your donation supports/funds Goodwill’s mission.\n1-3: poor/fair\n4-7: fair/good\n8-10: good/excellent?;number;;;1;10;
+90;24;4;Attendant Safety;How would you rate the  attendant’s attention to safety (wearing a safety vest, safe lifting, handled donation with care)?\n1-3: poor/fair\n4-7: fair/good\n8-10: good/excellent;number;;;1;10;
+97;28;1;Quality and taste;How would you rate the quality and taste of your meal?\n1-3: poor/fair\n4-7: fair/good\n8-10: good/excellent;number;;;1;10;
+98;28;2;Staff Experience;How would you rate the overall experience with the staff?\n1-3: poor/fair\n4-7: fair/good\n8-10: good/excellent?;number;;;1;10;
+99;28;3;Cleanliness;How would you rate the overall cleanliness of this location?\n1-3: poor/fair\n4-7: fair/good\n8-10: good/excellent?;number;;;1;10;
+100;28;4;Wait time;How would you rate your wait time in receiving your order?\n1-3: poor/fair\n4-7: fair/good\n8-10: good/excellent;number;;;1;10;
+105;30;1;Staff Experience;How would you rate the customer service you received while shopping? \n1-3: poor/fair\n4-7: fair/good\n8-10: good/excellent;number;;;1;10;
+106;30;2;Merchandise Quality;How would you rate the selection of merchandise in this location?\n1-3: poor/fair\n4-7: fair/good\n8-10: good/excellent?;number;;;1;10;
+107;30;3;Cleanliness;Overall, how would you rate the cleanliness and organization of this location?\n1-3: poor/fair\n4-7: fair/good\n8-10: good/excellent;number;;;1;10;
+129;36;1;Product price;How important is the price of the product on your decision to purchase?\n1-3: not/low\n4-7: slightly/moderately\n8-10: very/extremely;number;;;1;10;
+131;36;2;Check-out experience;How long was your check out experience? If you did not purchase, please text NA.\n1: Over 5 Minutes\n2: Between 2 and 4 minutes\n3: Under 2 minutes;number;;;1;3;1
+132;36;3;Retail cleanliness;Overall, how would you rate the cleanliness and organization of this location today?\n1-3: poor/fair\n4-7: fair/good\n8-10: good/excellent;number;;;1;10;
+143;39;1;Retail Service;How would you rate the customer service you received while shopping today?\n1-3: poor/fair\n4-7: fair/good\n8-10: good/excellent;number;;;1;10;
+144;39;2;Merchandise Quantity;How would you rate the amount of merchandise in this location?\n1-3: not enough\n4-7: enough/just right\n8-10: a good amount/more than enough;number;;;1;10;
+145;39;3;Merchandise Quality;How would you rate the quality of merchandise in this location?\n1-3: poor/fair\n4-7: fair/good\n8-10: good/excellent;number;;;1;10;
+151;41;1;Workforce Preparatio;Do you feel Goodwill Job Connection prepared you for the workforce?\n1-3: poor/fair\n4-7: fair/good\n8-10: good/excellent;number;;;1;10;
+152;41;2;Employment Goals;Did Goodwill Job Connection help you meet your goals searching for employment opportunities?\n1-3: poor/fair\n4-7: fair/good\n8-10: good/excellent;number;;;1;10;
+153;41;3;Staff Service;How satisfied were you with the Goodwill Job Connection Staff?\n1-3: poor/fair\n4-7: fair/good\n8-10: good/excellent;number;;;1;10;
+154;41;4;JC Recommendation;How likely would it be that you would use the Goodwill Job Connection program services again?\n1-3: not very likely\n4-7: somewhat likely\n8-10: very likely;number;;;1;10;
+192;48;1;Donation Cleanliness;How would you rate the cleanliness of the donation drive-thru area during your visit?\n1-3: poor/fair\n4-7: fair/good\n8-10: good/excellent;number;;;1;10;
+193;40;1;Donation Cleanliness;How would you rate the cleanliness of the donation drive-thru area during your visit?\n1-3: poor/fair\n4-7: fair/good\n8-10: good/excellent;number;;;1;10;
+194;40;2;Donation Service;How would you rate the service you received while donating?\n1-3: poor/fair\n4-7: fair/good\n8-10: good/excellent;number;;;1;10;
+195;40;3;Mission Explanation;Did the attendant thank you for your donation, that supports/funds Goodwill’s Mission?\ny) Yes\nn) No;string;1;5;;;
+196;40;4;Attendant Care;Did the attendant handle your donation safely and with care?\ny) Yes\nn) No;string;1;5;;;
+206;55;1;Category Separation;What impact does the separation of categories (men's, women's, children's, etc.) have on your shopping experience? \n1: Negative impact\n2: No impact\n3: Positive impact;number;;;1;3;
+207;55;2;Bin Rotation;How safe was the textile bin rotation during your visit? If you did not see this happen, please text NA. \n1: Not very safe\n2: Somewhat safe\n3: Very safe;number;;;1;3;
+223;58;1;Awareness;Were you aware that Pet People is now owned by Hollywood Feed? \nY) Yes\nN) No;string;1;5;;;
+224;58;2;Product Selection;How would you rate the overall product selection? \n1-3: poor/fair\n4-7: fair/good\n8-10: good/excellent;number;;;1;10;
+225;58;3;Promotion signage;Did you see promotional items clearly displayed throughout the store? \nY) Yes\nN) No;string;1;5;;;
+226;58;4;Sales Promotion;Did an associate discuss any sales promotions during your visit? \nY) Yes\nN) No;string;1;5;1;10;
+227;58;5;Service;How would you rate the  service you received?  \n1-3: poor/fair\n4-7: fair/good\n8-10: good/excellent;number;;;1;10;
+228;59;1;Donation experience;How easy was the donation process? \n1-3: poor/fair\n4-7: fair/good\n8-10: good/excellent;number;;;1;10;
+230;60;1;Attractions;Were all the attractions (bumper cars, laser-tag, etc.) working properly? If you did not visit an attraction please text NA.? \nY) Yes\nN) No;string;1;5;1;10;1
+232;60;2;Variety;How would you rate the variety of games that were offered? ?\n1-3: poor/fair\n4-7: fair/good\n8-10: good/excellent;number;;;1;10;
+233;60;3;Food Quality;How would you rate the quality of your food purchase? If you did not purchase food please text NA. ?\n1-3: poor/fair\n4-7: fair/good\n8-10: good/excellent;number;;;1;10;1
+234;60;4;Party Experience;If you hosted or attended a party, how was the overall experience? If you did not host or attend a party please text NA. ?\n1-3: poor/fair\n4-7: fair/good\n8-10: good/excellent;number;;;1;10;1
+235;60;5;Staff;How accommodating, attentive, and friendly was the staff during your visit? ?\n1-3: poor/fair\n4-7: fair/good\n8-10: good/excellent;number;;;1;10;
+236;62;1;Attractions;Were all the attractions (bumper cars, laser-tag, etc.) working properly? If you did not visit any attractions, please text NA \nY) Yes\nN) No;string;1;5;;;1
+238;62;3;Food Quality;How would you rate the quality of your food purchase? If you did not purchase food, please text NA. \n1-3: poor/fair\n4-7: fair/good\n8-10: good/excellent;number;;;1;10;1
+241;63;1;Greet;Were you greeted within 60-seconds of being sat at your table? ?\nY) Yes\nN) No;string;1;5;;;
+242;63;2;Server Recommend;Did the server mention the daily specials and/or provide recommendations? ?\nY) Yes\nN) No;string;1;5;;;
+243;63;3;Manager Experience;Did a manager stop by your table to ask about your dining experience?? \nY) Yes\nN) No;string;1;5;;;
+245;63;5;Value;Rate the overall value of your food/beverage purchase based on pricing, portion size, and quality: \n1-3: poor/fair\n4-7: fair/good\n8-10: good/excellent;number;;;1;10;
+246;64;1;Online;Did you book your activity online before your visit? ?\nY) Yes\nN) No;string;1;5;1;10;
+248;64;3;Party Experience;If you attended or hosted a party, how was the overall experience? If you did not host or attend a party, please text NA. \n1-3: poor/fair\n4-7: fair/good\n8-10: good/excellent;number;;;1;10;1
+249;64;4;Manager;At anytime, did a manager ask you about your experience?? \nY) Yes\nN) No;string;1;5;;;
+251;65;1;Greet;Upon arrival, were you greeted by employees at the register?? ?\nY) Yes\nN) No;string;1;5;;;
+252;65;2;Birthday;Did you attend a birthday party? ?\nY) Yes\nN) No;string;1;5;;;
+253;65;3;Wait;Was there a wait time to jump??\n\n1. 16+ Minutes\n2. 6-15 Minutes\n3. 1-5 Minutes\n4. No Wait;number;;;1;4;
+254;65;4;Activities;Were all activities in the park (warrior course, sky slam, foam pits, etc.) open and available? ?\nY) Yes\nN) No;string;1;5;;;
+255;65;5;Cleanliness;How was the overall cleanliness of the park? \n1-3: poor/fair\n4-7: fair/good\n8-10: good/excellent;number;;;1;10;
